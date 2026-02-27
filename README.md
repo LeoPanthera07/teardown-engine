@@ -24,6 +24,4 @@ Example Output Snippet:
 Layer 3 — Machine Learning Models
 Relevance: High
 
-text
-
 Fork & run on your products (Zomato, Perplexity.ai).
